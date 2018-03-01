@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4355303246ca5204d981721f6b859eb4
+timeCreated: 1512529077
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: G.B.BOOT
+  fontNames:
+  - G.B.BOOT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

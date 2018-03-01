@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 707859ca606da2141a9657ca2d2cc9ad
+timeCreated: 1514388093
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TubeOfCorn
+  fontNames:
+  - TubeOfCorn
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
